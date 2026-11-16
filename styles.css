@@ -1,0 +1,21 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: red
+}
+p{
+    color: red
+}
+nav{
+    color: pink
+}
+:root{
+    --brand: #1f7a5c
+    --space: 1rem;
+
+}
+.btn{
+    background: var(--brand);
+    padding: var(--space);
+}
